@@ -45,11 +45,10 @@ So close no matter how far
 Couldn't be much more from the heart
 Forever trusting who we are
 No nothing else matters
-<<<<<<< HEAD
+
 
 So close no matter how far
 Couldn't be much more from the heart
 Forever trusting who we are
 No nothing else matters
-=======
->>>>>>> dde74091b3e83bc1ba8eccbfb7595c0c33a7dacf
+-------------------------------
